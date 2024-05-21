@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/muharremkurtulus/Projects/ReCapProject/WebAPI/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/muharremkurtulus/Projects/ReCapProject/WebAPI/wwwroot/DefaultImage.jpg",
+      "PackagePath": "staticwebassets/DefaultImage.jpg"
+    },
+    {
+      "Id": "/Users/muharremkurtulus/Projects/ReCapProject/WebAPI/wwwroot/honda1.jpg",
+      "PackagePath": "staticwebassets/honda1.jpg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
