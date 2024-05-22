@@ -12,4 +12,3 @@ namespace Business.ValidationRules.FluentValidation
         }
     }
 }
-

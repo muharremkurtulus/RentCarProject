@@ -16,4 +16,3 @@ namespace Core.Extentions
         }
     }
 }
-// bizim core katmadı da dahil olmak üzere bütün injectionsları bir arada toplayacağımız yapıya dönüştü

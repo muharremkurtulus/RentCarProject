@@ -35,13 +35,13 @@ namespace Business.Constants
         public static string RentalUpdated = "Car Rental Updated";
         public static string RentalListed = "Rental Cars Listed";
 
-        public static string AuthorizationDenied = "Yetkiniz yok.";
-        public static string UserRegistered = "Kayıt oldu.";
-        public static string UserNotFound = "Kullanıcı bulunamadı.";
-        public static string PasswordError = "Parola hatası";
-        public static string SuccessfulLogin = "başarılı giriş";
-        public static string UserAlreadyExists = "Kullanıcı mevcut";
-        public static string AccessTokenCreated = "Token oluşturuldu.";
+        public static string AuthorizationDenied = "You have no authority.";
+        public static string UserRegistered = "Registered.";
+        public static string UserNotFound = "User not found.";
+        public static string PasswordError = "Password error";
+        public static string SuccessfulLogin = "Successful login";
+        public static string UserAlreadyExists = "User available";
+        public static string AccessTokenCreated = "Token created";
     } 
 }
 
